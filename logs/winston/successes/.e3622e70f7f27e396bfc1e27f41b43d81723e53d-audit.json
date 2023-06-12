@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\2.0\\Milestone_3\\university-management-system\\logs\\winston\\successes\\.e3622e70f7f27e396bfc1e27f41b43d81723e53d-audit.json",
+    "files": [
+        {
+            "date": 1686412602392,
+            "name": "F:\\2.0\\Milestone_3\\university-management-system\\logs\\winston\\successes\\uni-2023-06-10-21-success.log",
+            "hash": "0094a6bce6bac8bf7cae7469ea8193526bf2db32ec9a78df6cbb633828dcd3a3"
+        },
+        {
+            "date": 1686412837522,
+            "name": "F:\\2.0\\Milestone_3\\university-management-system\\logs\\winston\\successes\\uni-2023-06-10-22-success.log",
+            "hash": "f3cb67bb671e7f4f562a821d4aa26632351a41638f390a1bb0846134fe73ca38"
+        },
+        {
+            "date": 1686580273827,
+            "name": "F:\\2.0\\Milestone_3\\university-management-system\\logs\\winston\\successes\\uni-2023-06-12-20-success.log",
+            "hash": "1783f788526f28e0d9619aa448f6e5e81bc80c17389e26b5077866f586e562d4"
+        },
+        {
+            "date": 1686586916915,
+            "name": "F:\\2.0\\Milestone_3\\university-management-system\\logs\\winston\\successes\\uni-2023-06-12-22-success.log",
+            "hash": "e9377af253a19d3e5ababa6afbd6ab25aae8952a5f3834f875891d5eded3dd13"
+        }
+    ],
+    "hashType": "sha256"
+}
